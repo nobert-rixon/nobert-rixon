@@ -1,4 +1,4 @@
-robert (he/him)
+robert (he/him) 
 frontend web development and audio programming.
 learning Rust
 
