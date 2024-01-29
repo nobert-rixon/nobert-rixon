@@ -1,6 +1,6 @@
-robert (he/him) 
-frontend web development and audio programming.
-learning Rust
+robert (he/him) \
+frontend web development and audio programming. \
+learning Rust \
 
 <!---
 nobert-rixon/nobert-rixon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
